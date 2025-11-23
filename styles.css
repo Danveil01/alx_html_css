@@ -39,7 +39,12 @@ header, footer {
   text-align: center;
 }
 
+.logo {
+  font-size: 2em;      /* Make it bigger */
+  margin-right: 10px;  /* Space from nav links */
+  vertical-align: middle;
+
 /* Optional: make sure header/footer do not shrink */
 header, footer {
   flex-shrink: 0;
-}
+}}
